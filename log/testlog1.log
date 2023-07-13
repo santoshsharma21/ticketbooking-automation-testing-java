@@ -1,0 +1,18 @@
+2023-07-10 21:19:36,445 [main] INFO dummyticket - clicked on byticket
+2023-07-10 21:19:39,421 [main] INFO dummyticket - selected booking type
+2023-07-10 21:19:43,636 [main] INFO dummyticket - added passenger details
+2023-07-10 21:19:47,027 [main] INFO dummyticket - added travel details
+2023-07-10 21:19:50,105 [main] INFO dummyticket - added billing details
+2023-07-10 21:19:50,688 [main] INFO dummyticket - clicked on place order button
+2023-07-10 21:20:01,301 [main] INFO dummyticket - added card details for payment
+2023-07-10 21:20:06,277 [main] INFO dummyticket - verifying booking
+2023-07-10 21:20:06,289 [main] INFO dummyticket - Passed
+2023-07-13 20:54:45,944 [main] INFO dummyticket - clicked on byticket
+2023-07-13 20:54:47,650 [main] INFO dummyticket - selected booking type
+2023-07-13 20:54:51,180 [main] INFO dummyticket - added passenger details
+2023-07-13 20:54:52,847 [main] INFO dummyticket - added travel details
+2023-07-13 20:54:54,908 [main] INFO dummyticket - added billing details
+2023-07-13 20:54:55,194 [main] INFO dummyticket - clicked on place order button
+2023-07-13 20:55:06,028 [main] INFO dummyticket - added card details for payment
+2023-07-13 20:55:11,238 [main] INFO dummyticket - verifying booking
+2023-07-13 20:55:11,244 [main] INFO dummyticket - Passed
